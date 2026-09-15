@@ -1,0 +1,6 @@
+{
+  "name": "KittyCanteen Management",
+  "description": "Hệ thống quản lý căng tin — Đặt món trực tuyến, quản lý đơn hàng, phân quyền nhân viên và báo cáo doanh thu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
